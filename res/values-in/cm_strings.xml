@@ -30,7 +30,7 @@
     <string name="advanced_reboot_summary">Ketika tidak terkunci, berisi pilihan pada menu daya untuk mulai ulang ke recovery atau bootloader</string>
     <string name="berry_black_theme_title">Hitam</string>
     <string name="berry_black_theme_summary">Latar belakang hitam untuk tema gelap</string>
-    <string name="lineagelicense_title">Hukum Nenggala Project</string>
+    <string name="lineagelicense_title">Legalitas NaroOS</string>
     <string name="status_bar_double_tap_to_sleep_title">Ketuk untuk tidur</string>
     <string name="status_bar_double_tap_to_sleep_summary">Ketukan ganda pada bilah status atau layar kunci untuk mematikan layar</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message_cm" product="tablet">Tempatkan sensor sidik jari pada <xliff:g id="sensor_location">%1$s</xliff:g> tablet Anda.</string>
